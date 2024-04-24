@@ -1,0 +1,23 @@
+
+h1 {
+    font-size: 30px;
+    background-color: coral;
+    font-weight: bold;
+    color: antiquewhite;
+    text-shadow: 0cqmin;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+
+.lists {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darksalmon;
+    color:darkslategray;
+    text-align: center;
+
+}
+
+body {
+    background-color: indianred;
+}

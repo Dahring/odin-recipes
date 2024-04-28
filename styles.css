@@ -4,9 +4,9 @@
 }
 
 h1 { 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-size: 100px;
-    color: cadetblue;
+    color: lightpink;
 }
 
 span {
@@ -48,9 +48,9 @@ ul {
 }
 
 .lists {
-    font-family: Roboto, sans-serif;
+    font: 'Noto Sans', sans-serif;
     background-color: palegoldenrod;
-    color:darkslategray;
+    color: lightpink;
     text-align: left;
     height: 500px;
     width: 500px;

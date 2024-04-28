@@ -40,11 +40,12 @@ span {
 ul {
     list-style-type: none;
     color: blueviolet;
-    margin: 0px;
-    padding: 0px;
+    margin: 10 10px;
+    padding: 10 10px;
     font-size: 25px;
-    font-family: Roboto, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     text-align: center;
+    display: flex
 }
 
 .lists {
@@ -52,22 +53,22 @@ ul {
     background-color: palegoldenrod;
     color: lightpink;
     text-align: left;
-    height: 500px;
-    width: 500px;
+    height: auto;
+    width: 700px;
     margin-top: -490px;
     margin-left: 800px;
-    padding-left: 20px;
-    padding-top: 100px;
+    padding: 50px;
 }
 
 .lists a {
     background-color: rgb(179 57 81);
     color: #fff;
     text-decoration: none;
-    padding:  1em 2em;
     display: inline-block;
-    margin-bottom: 20px;
-    margin-top: -10px;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: auto;
 }
 
 .links-list a:hover {
